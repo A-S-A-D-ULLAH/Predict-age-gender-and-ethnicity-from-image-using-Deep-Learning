@@ -1,4 +1,5 @@
 # Predict-age-gender-and-ethnicity-from-image-using-Deep-Learning
+The purpose of this model is to predict a person's age, gender, and ethnicity once provided with a grayscale image of that person.
 
 
 ### Dataset
@@ -16,9 +17,9 @@ Img_name: name of the image to be linked with the image in either train, val or 
 You can download the materials,
 containing the following files and folder. The purpose of each file and folder is
 mentioned below:
-data/images/train: Contains the images to be used when training the model <br/>
-data/images/val: Contains the images to be used for validating the model <br/>
-data/images/test: Contains the images to be used as the test data to identify how well your model has generalized <br/>
-code.ipynb: This is the code file <br/>
-model: The folder contain model weights <br/>
-logs: The folder contain tensorboard logs <br/>
+* data/images/train: Contains the images to be used when training the model <br/>
+* data/images/val: Contains the images to be used for validating the model <br/>
+* data/images/test: Contains the images to be used as the test data to identify how well your model has generalized <br/>
+* code.ipynb: This is the code file <br/>
+* model: The folder contain model weights <br/>
+* logs: The folder contain tensorboard logs <br/>
