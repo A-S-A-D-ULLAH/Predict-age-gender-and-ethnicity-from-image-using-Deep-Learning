@@ -11,3 +11,14 @@ Age: age of the individual <br/>
 Gender: gender of the individual <br/>
 Ethnicity: ethnicity of the individual <br/> 
 Img_name: name of the image to be linked with the image in either train, val or test folders <br/>
+
+
+You can download the materials,
+containing the following files and folder. The purpose of each file and folder is
+mentioned below:
+data/images/train: Contains the images to be used when training the model <br/>
+data/images/val: Contains the images to be used for validating the model <br/>
+data/images/test: Contains the images to be used as the test data to identify how well your model has generalized <br/>
+code.ipynb: This is the code file <br/>
+model: The folder contain model weights <br/>
+logs: The folder contain tensorboard logs <br/>
